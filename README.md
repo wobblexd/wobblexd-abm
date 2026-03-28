@@ -70,8 +70,8 @@ Full-stack developer with a focus on building high-performance applications and 
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wobblexdd&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wobblexdd&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wobblexdd&theme=tokyonight&hide_border=true&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wobblexdd&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
 </div>
 
 ---
