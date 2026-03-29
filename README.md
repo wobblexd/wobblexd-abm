@@ -61,8 +61,7 @@ Full-stack developer with a focus on building high-performance applications and 
 * **WobbleKillSound** — Custom kill sound system triggered on PvP events with configurable audio feedback.
 * **WobbleHome** — Player home system allowing set, teleport, and manage personal locations.
 * **WobbleCombat** — Combat logging and PvP control system to prevent abuse and enforce fair fights.
-* **WobbleSettings** — Centralized player settings system designed to control and sync behavior across multiple plugins.
-* 
+* **WobbleSettings** — Centralized player settings system designed to control and sync behavior across multiple plugins
 * **https://morosmp.net** — Full-stack MERN platform integrated with Minecraft server data and community systems.
 * **Automation Suite** — Private Python toolkit for server automation, data processing, and workflow optimization.
 ---
