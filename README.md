@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Telegram-@wobblexd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <a href="https://www.twitch.tv/wobblexd">
-      <img src="https://img.shields.io/badge/Twitch-wobblexd-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Twitch-wobblexdd-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
     </a>
     <a href="https://tiktok.com/@wobblexd">
       <img src="https://img.shields.io/badge/TikTok-@wobblexd-black?style=for-the-badge&logo=tiktok&logoColor=white" />
