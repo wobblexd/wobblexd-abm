@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c">Watch video</a>
-
 https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c
 
 
