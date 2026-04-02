@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c">Watch video</a>
+  <a href="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c"</a>
   
 ![WobbleAura](https://github.com/user-attachments/assets/e24b0b2c-3d0f-4791-a7d2-ef3ca6cf7762)
 </p>
