@@ -53,7 +53,7 @@ I work mainly on projects where Minecraft servers, web platforms, and automation
 
 ## Current Focus
 
-- Building the **MoroSMP** ecosystem
+- Building the **EmeraldSMP** ecosystem
 - Developing a modular plugin suite for Paper 1.21+
 - Creating backend systems for sync, player data, and server services
 - Improving performance, maintainability, and cross-plugin integration
