@@ -9,7 +9,7 @@
   </a>
 
   <h1>Wobble</h1>
-  <p><strong>Full-Stack Developer • Java • Systems • Minecraft Development</strong></p>
+  <p><strong>Full-Stack Developer • Minecraft Development</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -33,24 +33,23 @@
 
 ## Overview
 
-Full-stack developer focused on building scalable and usable systems.
+Full-stack developer focused on building scalable and practical systems.
 
 Main direction:
 - full-stack applications (backend + frontend)
-- Minecraft plugin development (Paper / PaperMC)
-- automation tools and utilities
-- system design and integration
+- Minecraft plugin and mod development
+- UI/UX and web design
+- 3D design and prototyping
 
-I work on projects where different parts (applications, services, tools) interact as one structured system.
+I build systems where applications, services, and tools integrate into a single structured workflow with clear architecture.
 
 ---
 
 ## Current Focus
 
-- Developing standalone plugins for Paper 1.21+
-- Building small and usable applications (desktop / mobile)
-- Creating efficient backend systems and utilities
-- Improving code quality, performance, and structure
+- Developing standalone plugins and mods for Minecraft
+- Building small and practical applications (desktop / mobile)
+- Creating tools that are simple, fast, and scalable
 
 ---
 
@@ -75,36 +74,18 @@ I work on projects where different parts (applications, services, tools) interac
 
 ## Featured Projects
 
-### Core Plugins
+### Minecraft Projects
 - WobbleAuction — GUI auction system with pagination, search, and expiration handling  
 - WobbleBounty — dynamic bounty system with automated payouts and PvP flow  
 - WobbleCombat — combat control and anti-logout system  
 - WobbleTeams — team system with roles, invites, and persistence  
-- WobbleSettings — centralized player configuration system  
-- WobbleKillSound — customizable kill sound feedback system  
-- WobbleRTP — optimized random teleport system with safe location logic  
-- WobbleShop — shop system for in-game purchases  
+- WobbleRTP — high-performance random teleport system with safe location logic
 
 ---
 
 ### Applications
-- wobb-desktop — desktop application  
-- wobb-mobile — mobile application  
-
----
-
-### Tools
-- DumpScript — automation and workflow utility tool  
-
----
-
-## Development Style
-
-- clean and readable architecture  
-- performance-oriented solutions  
-- minimal and maintainable code  
-- fast iteration → refinement later  
-- focus on real usability, not overengineering  
+- wobb-desktop — Electron desktop client for a self-hosted VPN workflow.
+- wobb-mobile — React Native Android client for a self-hosted Xray / VLESS / REALITY workflow.
 
 ---
 
@@ -121,25 +102,13 @@ I work on projects where different parts (applications, services, tools) interac
 
 ---
 
-## Direction
-
-Focused on building:
-- standalone tools  
-- plugins  
-- small applications  
-- scalable systems  
-
-Priority: simplicity, usability, performance.
-
----
-
 ## Contact
 
 <div align="center">
-  <a href="https://t.me/aulgu">t.me/aulgu</a> •
-  <a href="mailto:support@morosmp.net">support@morosmp.net</a>
+  <a href="https://t.me/aulgu">telegram</a> •
+  <a href="mailto:wobblerq@gmail.com">email</a>
 </div>
 
 <div align="center">
-  <sub>stay calm • keep building</sub>
+  <sub>simply • lovely</sub>
 </div>
