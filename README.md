@@ -75,11 +75,11 @@ I build systems where applications, services, and tools integrate into a single 
 ## Featured Projects
 
 ### Minecraft Projects
-- WobbleAuction — GUI auction system with pagination, search, and expiration handling  
-- WobbleBounty — dynamic bounty system with automated payouts and PvP flow  
-- WobbleCombat — combat control and anti-logout system  
-- WobbleTeams — team system with roles, invites, and persistence  
-- WobbleRTP — high-performance random teleport system with safe location logic
+- WAuctionHouse — GUI auction system with pagination, search, and expiration handling  
+- WBountyHunters — dynamic bounty system with automated payouts and PvP flow  
+- WCombatLog — combat control and anti-logout system  
+- WTeams — team system with roles, invites, and persistence  
+- WRTP — high-performance random teleport system with safe location logic
 
 ---
 
@@ -105,10 +105,10 @@ I build systems where applications, services, and tools integrate into a single 
 ## Contact
 
 <div align="center">
-  <a href="https://t.me/aulgu">telegram</a> •
-  <a href="mailto:wobblerq@gmail.com">email</a>
+  <a href="https://t.me/aulgu">Telegram</a> •
+  <a href="mailto:wobblerq@gmail.com">E-mail</a>
 </div>
 
 <div align="center">
-  <sub>simply • lovely</sub>
+  <sub>Simply. • Lovely.</sub>
 </div>
