@@ -110,5 +110,5 @@ I build systems where applications, services, and tools integrate into a single 
 </div>
 
 <div align="center">
-  <sub>Simply. • Lovely.</sub>
+  <sub>Simply • Lovely</sub>
 </div>
