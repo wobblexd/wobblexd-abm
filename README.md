@@ -65,7 +65,7 @@ combine engineering + creator mindset inside one digital ecosystem.
 
 ## Ecosystem
 
-### Languages →
+### Languages → <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,rust,cpp&perline=7" />
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,rust,cpp&perline=7" />
 </p>
