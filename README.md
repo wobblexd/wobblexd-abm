@@ -63,6 +63,19 @@ combine engineering + creator mindset inside one digital ecosystem.
 
 ---
 
+## Media / Creator
+
+Interested in:
+
+- coding streams;
+- Minecraft streams;
+- devlogs;
+- showcases;
+- edits & short-form content;
+- engineering/media ecosystem building.
+
+---
+
 ## Ecosystem
 
 ### Languages
@@ -122,22 +135,6 @@ combine engineering + creator mindset inside one digital ecosystem.
 <img height="170" src="https://streak-stats.demolab.com?user=klousex&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## Media / Creator
-
-Interested in:
-
-- coding streams;
-- Minecraft streams;
-- devlogs;
-- showcases;
-- edits & short-form content;
-- engineering/media ecosystem building.
-
-Goal:
-build a recognizable international creator + engineering presence.
 
 ---
 
