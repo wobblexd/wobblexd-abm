@@ -87,8 +87,8 @@ combine engineering + creator mindset inside one digital ecosystem.
 
 ### Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,ps,pr,ae" />
-  <img src="https://skillicons.dev/icons?i=ae,pr,ps,dr" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=figma,ae,pr,ps,dr" />
 </p>
 
 ---
