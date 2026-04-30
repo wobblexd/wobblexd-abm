@@ -7,7 +7,7 @@
   />
 </a>
 
-# Hi By KLouse
+#KLouse
 
 ### Full-Stack Developer • Minecraft Development
 
@@ -34,6 +34,14 @@
 </p>
 
 </div>
+
+---
+
+## Greetings 
+
+Hi, my name is Klouse.
+I'm a full-stack developer, building engineer, and content creator. 
+My goals are a successful career in IT, YouTube Gaming, and moving to the USA.
 
 ---
 
