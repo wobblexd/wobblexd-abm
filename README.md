@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/aghNoNp8orVn6CHBq9/giphy.gif" width="520" alt="Jujutsu Kaisen Banner"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Klouse&section=header&animation=twinkling&fontAlign=50&fontColor=ffffff&fontSize=60&stroke=7c3aed&strokeWidth=2&color=0:0f172a,45:312e81,100:7c3aed"/>
 
 <!-- Old Banner / GIF
@@ -36,9 +38,9 @@
 
 <h2>About 私自身</h2>
 
-<img align="right" src="assets/gojo.png" width="32%" alt="Gojo Satoru"/>
+<img align="right" src="https://pngdownload.io/download/9459/?tmstv=1744823598" width="30%" alt="Gojo Satoru"/>
 
-<pre><code>Profile Version: 2.0
+<pre><code>Profile Version: 2.1
 --------------------
 Username: Klouse
 Path: AI Engineering
@@ -84,17 +86,6 @@ Interests:
   - Backend Fundamentals
   - Web Interfaces
   - Open Source
-
-Build_Mode:
-  - Think
-  - Build
-  - Break
-  - Fix
-  - Improve
-
-Rule:
-  Build projects, learn what blocks progress,
-  avoid random technologies.
 </code></pre>
 
 <br clear="both">
@@ -118,7 +109,7 @@ Rule:
       <sub>ML · DL · LLMs · AI Tools</sub>
     </td>
     <td align="center" width="25%">
-      <h3>Full-Stack / MERN</h3>
+      <h3>MERN</h3>
       <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=2" />
       <br />
       <sub>MongoDB · Express · React · Node</sub>
@@ -138,7 +129,7 @@ Rule:
 
 <h3 align="left">🤖 AI / Engineering</h3>
 
-<img align="left" src="assets/sukuna.png" width="28%" alt="Sukuna"/>
+<img align="left" src="https://static.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/6/64/Sukuna.png/revision/latest?cb=20220131234941" width="26%" alt="Sukuna"/>
 
 <pre><code>AI Engineering:
   Python
@@ -156,7 +147,6 @@ Software Foundation:
   Dashboards
   REST APIs
   Databases
-  Tools
   Practical systems
 
 AI Tools:
@@ -242,8 +232,6 @@ AI Tools:
 </details>
 
 <div align="center">
-
-<img src="assets/jinwoo.png" width="220" alt="Sung Jin-Woo"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=0:7c3aed,45:312e81,100:0f172a"/>
 
